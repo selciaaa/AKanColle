@@ -1,0 +1,12 @@
+C:\Programs\AKanColle\AKanColle\bin\Debug\netstandard2.0\AKanColle.deps.json
+C:\Programs\AKanColle\AKanColle\bin\Debug\netstandard2.0\AKanColle.dll
+C:\Programs\AKanColle\AKanColle\bin\Debug\netstandard2.0\AKanColle.pdb
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\AKanColle.csprojAssemblyReference.cache
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\AKanColle.csproj.CoreCompileInputs.cache
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\AKanColle.AssemblyInfoInputs.cache
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\AKanColle.AssemblyInfo.cs
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\AKanColle.dll
+C:\Programs\AKanColle\AKanColle\obj\Debug\netstandard2.0\AKanColle.pdb
